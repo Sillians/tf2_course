@@ -88,3 +88,5 @@ This should open up your browser, and you should see Jupyter's tree view, with t
 Next, just click on any `*.ipynb` to open a Jupyter notebook.
 
 That's it! Now, have fun learning TensorFlow 2!
+
+
